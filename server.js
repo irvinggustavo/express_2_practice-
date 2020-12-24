@@ -1,0 +1,12 @@
+const express = require('express');
+const app = express();
+
+
+
+
+
+
+
+app.listen(8080, () => {
+    console.log('server listening in port 8080');
+})
