@@ -1,5 +1,5 @@
 const router = require('express').Router();
-const data = require('../public/data.js');
+const data = require('../data.js');
 
 
 router.get('/soups', (req, res) => {
